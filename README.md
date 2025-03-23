@@ -39,7 +39,7 @@ The dataset can be downloaded [here](https://pan.baidu.com/s/1Wg3u7V8AOVfgqkaw1n
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/LEGNet&type=Date)](https://www.star-history.com/)
+[![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/RRSHID&type=Date)](https://www.star-history.com/#lwCVer/RRSHID&Date)
 
 
 If you have any questions about this work, you can contact me. Email: luwei_ahu@qq.com.
