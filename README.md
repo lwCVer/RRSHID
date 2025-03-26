@@ -7,7 +7,7 @@ This is the official Pytorch/Pytorch implementation of the paper: <br/>
 >
 > Zeng-Hui Zhu†, Wei Lu†, Si-Bao Chen*, Chris H. Q. Ding, Jin Tang, and Bin Luo, Senior Member, IEEE 
 > 
->  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), In peer review.* [arXiv](https://arxiv.org/abs/2503)
+>  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), In peer review.* [arXiv](https://arxiv.org/abs/2503.17966)
 > 
 
 ----
@@ -52,7 +52,7 @@ If RRSHID is useful or relevant to your research, please kindly recognize our co
 @article{lu2025legnet,
   title={Real-World Remote Sensing Image Dehazing: Benchmark and Baseline},
   author={Zhu, Zeng-Hui and Lu, Wei and Chen, Si-Bao and Ding, Chris HQ and Tang, Jin and Luo, Bin},
-  journal={arXiv preprint arXiv:2503},
+  journal={arXiv preprint arXiv:2503.17966},
   year={2025}
 }
 ```
