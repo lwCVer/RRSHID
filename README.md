@@ -34,9 +34,9 @@ Remote Sensing Image Dehazing (RSID) poses significant challenges in real-world 
 
 The code will be available.
 
-The dataset can be downloaded [here](https://pan.baidu.com/s/1Wg3u7V8AOVfgqkaw1n3lEg?pwd=CV21). Password: CV21
+The dataset can be downloaded [Baidu netdisk](https://pan.baidu.com/s/1Wg3u7V8AOVfgqkaw1n3lEg?pwd=CV21). Password: CV21 or [Github](https://github.com/lwCVer/RRSHID/releases/download/dataset/RRSHID.zip) or [Hugging Face](https://pan.baidu.com/s/1Wg3u7V8AOVfgqkaw1n3lEg?pwd=CV21) or [Google Drive](https://drive.google.com/file/d/1uBwHM8tyw69xafFHd01vMERs3TadUmxT/view?usp=drive_link).
 
-
+ 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/RRSHID&type=Date)](https://www.star-history.com/#lwCVer/RRSHID&Date)
