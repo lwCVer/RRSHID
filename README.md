@@ -42,7 +42,9 @@ The dataset can be downloaded at [Baidu netdisk](https://pan.baidu.com/s/1Wg3u7V
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/RRSHID&type=Date)](https://www.star-history.com/#lwCVer/RRSHID&Date)
 
 
-If you have any questions about this work, you can contact me. Email: luwei_ahu@qq.com.
+If you have any questions about this work, you can contact me. 
+
+Email: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: lw2858191255.
 
 Your star is the power that keeps us updating github.
 
